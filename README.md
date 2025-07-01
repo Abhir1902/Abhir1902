@@ -9,7 +9,7 @@
 I'm a Software Engineer at UBS with a background in **Python programming, AI/ML and Generative AI**. I have a passion for exploring new technologies and expanding my skill set through hands-on projects. I believe in learning by doing, and I continuously take up courses to stay up-to-date with the latest advancements in technology.
 
 - 💼 Currently working as a Software Engineer.
-- 🤖 Passionate about **AI/ML, Generative AI**, and Software Development.
+- 🤖 Passionate about **AI/ML, Generative AI**, and **Software Development**.
 - 🌱 Continuously learning new technologies and taking up courses.
 - 🛠️ I love working on projects to apply my knowledge in real-world scenarios.
 - 🎮 When I’m not coding, you might find me exploring new AI models, catching up on tech trends, or playing around with new gadgets just for fun!
