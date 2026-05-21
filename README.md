@@ -1,33 +1,72 @@
+<div align="center">
+  <h1>👋 Hi, I'm Abhir Mirikar</h1>
+  <p><strong>A passionate Software Engineer with an unquenchable thirst to learn</strong></p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Abhir Mirikar</h1>
-<h3 align="center">A passionate web developer with an unquenchable thirst to learn.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhir1902&label=Profile%20views&color=0e75b6&style=flat" alt="abhir1902" /> </p>
+<div align="center">
+  <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
-## About Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhir1902&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-I'm a Software Engineer at UBS with a background in **Python programming, AI/ML and Generative AI**. I have a passion for exploring new technologies and expanding my skill set through hands-on projects. I believe in learning by doing, and I continuously take up courses to stay up-to-date with the latest advancements in technology.
+---
 
-- 💼 Currently working as a Software Engineer.
-- 🤖 Passionate about **AI/ML, Generative AI**, and **Software Development**.
-- 🌱 Continuously learning new technologies and taking up courses.
-- 🛠️ I love working on projects to apply my knowledge in real-world scenarios.
-- 🎮 When I’m not coding, you might find me exploring new AI models, catching up on tech trends, or playing around with new gadgets just for fun!
+## 👨‍💼 About Me
 
-## Skills
+I'm a **Software Engineer at UBS** with a strong background in **Python programming, AI/ML, and Generative AI**. I'm passionate about exploring cutting-edge technologies and applying them to real-world problems.
 
-- **Programming Languages**: Python, Java, JavaScript, C, C++, HTML, CSS, JS
-- **Frameworks & Tools**: Spring Boot, Django, React
-- **Cloud & DevOps**: Azure, Gitlab
-- **Data Science & AI**: Machine Learning, Deep Learning, NLP, Generative AI
+- 💼 Software Engineer at UBS
+- 🤖 Passionate about **AI/ML**, **Generative AI**, and **Software Development**
+- 🌱 Continuously learning and taking on new challenges
+- 🛠️ Love building projects to apply knowledge in real-world scenarios
+- 🎮 Exploring AI models, tech trends, and cool gadgets
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhir1902&show_icons=true&locale=en&layout=compact" alt="abhir1902" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhir1902&show_icons=true&locale=en" alt="abhir1902" /></p>
+## 🛠️ Skills
 
+**Programming Languages**
+<br>Python • Java • JavaScript • C • C++ • HTML • CSS
 
-## Connect with Me
+**Frameworks & Tools**
+<br>Spring Boot • Django • React
 
-- [LinkedIn](https://www.linkedin.com/in/abhir-m-mirikar-3398b71b9/)
-- [Twitter](https://x.com/mirikar)
+**Cloud & DevOps**
+<br>Azure • GitLab
 
+**Data Science & AI**
+<br>Machine Learning • Deep Learning • NLP • Generative AI
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhir1902&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhir1902&show_icons=true&locale=en" alt="GitHub Stats" />
+</div>
+
+---
+
+## 🔗 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhir-m-mirikar-3398b71b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/mirikar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p>⭐ Feel free to explore my repositories and connect with me!</p>
+</div>
