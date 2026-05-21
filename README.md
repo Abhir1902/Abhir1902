@@ -1,61 +1,60 @@
-## ABHIR MIRIKAR
+<div align="center">
+  <h1>👋 Hi, I'm Abhir Mirikar</h1>
+  <p><strong>A passionate Software Engineer with an unquenchable thirst to learn</strong></p>
+</div>
 
-**Software Engineer | AI/ML Specialist | Generative AI Explorer**
+<div align="center">
+  <img alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</div>
 
----
-
-### PROFESSIONAL SUMMARY
-
-Software Engineer at UBS with extensive experience in Python programming, AI/ML, and Generative AI. Passionate about building scalable applications and solving complex problems through elegant code and innovative solutions.
-
----
-
-### EXPERIENCE & EXPERTISE
-
-**Current Role**
-- Software Engineer at UBS
-
-**Core Competencies**
-- Python Programming, AI/ML Development
-- Generative AI & Large Language Models
-- Software Development & Architecture
-- Full-Stack Web Development
-
-**Areas of Interest**
-- Machine Learning & Deep Learning
-- Natural Language Processing
-- Generative AI Applications
-- Cloud-Based Solutions
-- Modern Software Development Practices
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhir1902&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-### TECHNICAL SKILLS
+## 👨‍💼 About Me
+
+I'm a **Software Engineer at UBS** with a strong background in **Python programming, AI/ML, and Generative AI**. I'm passionate about exploring cutting-edge technologies and applying them to real-world problems.
+
+- 💼 Software Engineer at UBS
+- 🤖 Passionate about **AI/ML**, **Generative AI**, and **Software Development**
+- 🌱 Continuously learning and taking on new challenges
+- 🛠️ Love building projects to apply knowledge in real-world scenarios
+- 🎮 Exploring AI models, tech trends, and cool gadgets
+
+---
+
+## 🛠️ Skills
 
 **Programming Languages**
-Python, Java, JavaScript, C, C++, HTML, CSS
+<br>Python • Java • JavaScript • C • C++ • HTML • CSS
 
-**Frameworks & Libraries**
-Spring Boot, Django, React
+**Frameworks & Tools**
+<br>Spring Boot • Django • React
 
 **Cloud & DevOps**
-Azure, GitLab, Git
+<br>Azure • GitLab
 
 **Data Science & AI**
-Machine Learning, Deep Learning, NLP, Generative AI
+<br>Machine Learning • Deep Learning • NLP • Generative AI
 
 ---
 
-### PROFILE STATISTICS
+## 🔗 Connect with Me
 
-Profile Views: [Available on GitHub Profile](https://github.com/Abhir1902)
+<div align="center">
+  <a href="https://www.linkedin.com/in/abhir-m-mirikar-3398b71b9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/mirikar">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</div>
 
 ---
 
-### CONNECT
-
-[LinkedIn](https://www.linkedin.com/in/abhir-m-mirikar-3398b71b9/) | [X/Twitter](https://x.com/mirikar) | [GitHub](https://github.com/Abhir1902)
-
----
-
-© 2026 Abhir Mirikar. All rights reserved.
+<div align="center">
+  <p>⭐ Feel free to explore my repositories and connect with me!</p>
+</div>
